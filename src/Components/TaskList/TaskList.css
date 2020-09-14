@@ -1,0 +1,18 @@
+
+.task-list{
+    flex-basis: 68%;
+    height: auto ;
+    box-shadow: 1px 1px 1px #ccc , -1px -1px 1px #ccc ;
+    margin:auto ;
+}
+.btn-add-list{
+    background-color: blue;
+}
+.table{
+    width:100% ;
+    height: auto;
+    margin:0 ;
+}
+.table , tr , td ,th {
+    border:1px solid #ccc ;
+}

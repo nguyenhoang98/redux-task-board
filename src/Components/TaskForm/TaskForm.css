@@ -1,0 +1,35 @@
+.task-form{
+    flex-basis: 30%;
+    height: auto ;
+    box-shadow: 1px 1px 1px #ccc , -1px -1px 1px #ccc ;
+}
+.task-form-title{
+    background-color: orange;
+    color:white ;
+    padding:10px ;
+    position: relative;
+}
+.close-form{
+    position: absolute;
+    right:20px ;
+    cursor: pointer;
+}
+form{
+    padding:20px ;
+}
+.group-form{
+    margin:10px 0px ;
+}
+label{
+    display: block;
+}
+input , select {
+    width:100% ;
+    padding:8px ;
+}
+.btn-save{
+    background-color: orange;
+}
+.btn-del{
+    background-color: red;
+}
